@@ -1,16 +1,29 @@
-## Hi there 👋
+# Muhammad Junaid
 
-<!--
-**Codingcahesession/Codingcahesession** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Project Manager | Applied AI Researcher | Computer Vision & LLM Workflow Systems
 
-Here are some ideas to get you started:
+I work on applied AI systems combining machine learning, computer vision, LLM workflows, and decision-support tools. My recent work includes anomaly detection for Ground Penetrating Radar imagery, AI-assisted estimation, procurement intelligence workflows, contextual outreach generation, and education technology tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured AI Projects
+
+- **Subterranean Anomaly Vision MVP** — anomaly detection pipeline for GPR-like subsurface imagery using reconstruction-error concepts.
+- **AI Cost Estimation Copilot MVP** — deterministic estimation logic combined with AI-style explanatory notes.
+- **Procurement Evaluation Assistant MVP** — structured tender drafting and bid evaluation workflow demo.
+- **Contextual Outreach Generator MVP** — retrieval-assisted email generation from service knowledge.
+- **Market Segmentation Dialogue Agent MVP** — guided ICP/profile discovery through conversational input.
+- **GPR Dataset Release Kit** — dataset documentation, metadata schema, release checklist, and Git LFS guidance.
+
+## Research Interests
+
+- Computer vision for geophysical sensing
+- One-class learning and anomaly detection
+- LLM-assisted decision-support systems
+- Retrieval-augmented generation
+- Applied AI for engineering and education
+- Human-in-the-loop AI workflows
+
+## Contact
+
+- Email: ssgmaverik008@gmail.com
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: add your LinkedIn URL
