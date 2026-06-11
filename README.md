@@ -11,7 +11,7 @@ I work on applied AI systems combining machine learning, computer vision, LLM wo
 - **Procurement Evaluation Assistant MVP** — structured tender drafting and bid evaluation workflow demo.
 - **Contextual Outreach Generator MVP** — retrieval-assisted email generation from service knowledge.
 - **Market Segmentation Dialogue Agent MVP** — guided ICP/profile discovery through conversational input.
-- **GPR Dataset Release Kit** — dataset documentation, metadata schema, release checklist, and Git LFS guidance.
+- **GPR Dataset Release Kit** — dataset documentation, metadata schema, release checklist, and Kaggle Dataset Link.
 
 ## Research Interests
 
