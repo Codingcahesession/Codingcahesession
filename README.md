@@ -4,13 +4,13 @@ AI Project Manager | Applied AI Researcher | Computer Vision & LLM Workflow Syst
 
 I work on applied AI systems combining machine learning, computer vision, LLM workflows, and decision-support tools. My recent work includes anomaly detection for Ground Penetrating Radar imagery, AI-assisted estimation, procurement intelligence workflows, contextual outreach generation, and education technology tools.
 
-## Featured AI Projects
+## Featured AI Projects - MVP
 
-- **Subterranean Anomaly Vision MVP** — anomaly detection pipeline for GPR-like subsurface imagery using reconstruction-error concepts.
-- **AI Cost Estimation Copilot MVP** — deterministic estimation logic combined with AI-style explanatory notes.
-- **Procurement Evaluation Assistant MVP** — structured tender drafting and bid evaluation workflow demo.
-- **Contextual Outreach Generator MVP** — retrieval-assisted email generation from service knowledge.
-- **Market Segmentation Dialogue Agent MVP** — guided ICP/profile discovery through conversational input.
+- **Subterranean Anomaly Vision** — anomaly detection pipeline for GPR-like subsurface imagery using reconstruction-error concepts.
+- **AI Cost Estimation Copilot** — deterministic estimation logic combined with AI-style explanatory notes.
+- **Procurement Evaluation Assistant** — structured tender drafting and bid evaluation workflow demo.
+- **Contextual Outreach Generator** — retrieval-assisted email generation from service knowledge.
+- **Market Segmentation Dialogue Agent** — guided ICP/profile discovery through conversational input.
 - **GPR Dataset Release Kit** — dataset documentation, metadata schema, release checklist, and Kaggle Dataset Link.
 
 ## Research Interests
