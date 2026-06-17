@@ -24,6 +24,5 @@ I work on applied AI systems combining machine learning, computer vision, LLM wo
 
 ## Contact
 
-- Email: ssgmaverik008@gmail.com
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: add your LinkedIn URL
+- Email: junaid6330@yahoo.com
+
