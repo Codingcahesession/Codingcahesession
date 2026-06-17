@@ -13,6 +13,11 @@ I work on applied AI systems combining machine learning, computer vision, LLM wo
 - **Market Segmentation Dialogue Agent** — guided ICP/profile discovery through conversational input.
 - **GPR Dataset Release Kit** — dataset documentation, metadata schema, release checklist, and Kaggle Dataset Link.
 
+- ## Project History
+
+This repository contains a public MVP version of a larger private research/project implementations completed during 2025–2026.  
+The full implementation, private data, and production logic are not included.
+
 ## Research Interests
 
 - Computer vision for geophysical sensing
