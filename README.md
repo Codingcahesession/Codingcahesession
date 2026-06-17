@@ -15,7 +15,7 @@ I work on applied AI systems combining machine learning, computer vision, LLM wo
 
 - ## Project History
 
-This repository contains a public MVP version of a larger private research/project implementations completed during 2025–2026 and committed to my private github profile https://github.com/mavericksolutions007.  
+These are public MVP versions of larger projects I built privately during 2024–2026. The full implementations, data, and production logic aren't included here and committed to my private github profile https://github.com/mavericksolutions007.  
 The full implementation, private data, and production logic are not included.
 
 ## Research Interests
