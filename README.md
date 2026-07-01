@@ -22,10 +22,11 @@ The full implementation, private data, and production logic are not included.
 
 - Computer vision for geophysical sensing
 - One-class learning and anomaly detection
-- LLM-assisted decision-support systems
-- Retrieval-augmented generation
+- LLM-assisted decision support systems
+- Retrieval augmented generation
 - Applied AI for engineering and education
-- Human-in-the-loop AI workflows
+- Human in the loop AI workflows
+- Trustworthy AI
 
 ## Contact
 
