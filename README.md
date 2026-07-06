@@ -6,7 +6,7 @@ I work on applied AI systems combining machine learning, computer vision, LLM wo
 
 ## Featured AI Projects - MVP
 
-- **Subterranean Anomaly Vision** — anomaly detection pipeline for GPR-like subsurface imagery using reconstruction-error concepts.
+- **GPR Tunnel Detection** — Unsupervised GPR tunnel detection via depth-restricted reconstruction scoring.
 - **AI Cost Estimation Copilot** — deterministic estimation logic combined with AI-style explanatory notes.
 - **Procurement Evaluation Assistant** — structured tender drafting and bid evaluation workflow demo.
 - **Contextual Outreach Generator** — retrieval-assisted email generation from service knowledge.
